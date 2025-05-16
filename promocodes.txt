@@ -1,3 +1,3 @@
-[HELLO;(Promocode: Test);('0,10'|'5,15'|'6,30')]
-[WORLD;(Promocode: Test2);('1,1'|'2,3'|'3,5')]
-[FRIEND;(Promocode: Test3);('60,10'|'50,15'|'46,30')]
+[HELLO;(Promocode: Test);('0,10'|'5,15'|'6,30'|'50,10'|'52,30')]
+[WORLD;(Promocode: Test2);('1,1'|'2,3')]
+[FRIEND;(Promocode: Test3);('60,10')]
