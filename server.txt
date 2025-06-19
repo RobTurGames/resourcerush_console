@@ -1,1 +1,1 @@
-latest_version=0.95b4
+latest_version=0.96
