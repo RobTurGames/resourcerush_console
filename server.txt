@@ -1,1 +1,1 @@
-latest_version=1.03
+latest_version=1.10
